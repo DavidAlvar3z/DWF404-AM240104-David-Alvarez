@@ -1,14 +1,19 @@
 package sv.edu.udb.configuration;
+
 import org.junit.jupiter.api.Test;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit.jupiter.EnabledIf;
+import sv.edu.udb.configuration.EnvironmentDbConfig;
+
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.time.LocalDate;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 @SpringBootTest
+
 class EnvironmentDbConfigTest {
     @Autowired
     EnvironmentDbConfig environmentDbConfig;
