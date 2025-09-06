@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98141159-dcf6-468d-9cd2-481ddda54589" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Semana7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Semana7/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/usuario/Documents/Guia 8 LM250403 POO/Guia8",
+    "last_opened_file_path": "C:/Users/usuario/Documents/DWF404-AM240104-David-Alvarez/Semana8/spring-api-rest",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -219,6 +219,7 @@
       <updated>1756582020657</updated>
       <workItem from="1756582021879" duration="8000" />
       <workItem from="1756929046537" duration="481000" />
+      <workItem from="1757187607140" duration="15000" />
     </task>
     <servers />
   </component>
